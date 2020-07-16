@@ -9,7 +9,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -21,7 +21,8 @@ const aboutMe = {
          csharp: ["Asp.net Core"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"]
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
    },
    currentOccupation: ["student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
