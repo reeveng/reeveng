@@ -1,6 +1,6 @@
 <img src="svg.svg"/>
 
-<p><em>Bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
 
