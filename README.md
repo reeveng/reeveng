@@ -1,5 +1,6 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
+<!--
 
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
 </em></p>
@@ -30,3 +31,4 @@ const aboutMe = {
 <h2>💻 Some stats 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
