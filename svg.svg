@@ -2,7 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-                .container {
+                .byReeven {
                 font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
                 display: flex;
                 flex-direction: column;
@@ -210,7 +210,7 @@
                 }
                 }
 			</style>
-			<div class="container">
+			<div class="byReeven">
                 <h1>Hey, I'm Reeven!</h1>
                 <h1>Hey, I'm Reeven!</h1>
                 <h1>Hey, I'm Reeven!</h1>
