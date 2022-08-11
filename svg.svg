@@ -1,21 +1,32 @@
-<svg fill="none" viewBox="0 0 1000 400" width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-                .byReeven {
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>.byReeven {
                 font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-                display: flex;
-                flex-direction: column;
+               display:flex; flex-direction: column;
                 align-items: center;
                 justify-content: center;
                 margin: 0;
-                width: 100%;
-                height: 400px;
-                background: #333;
-                background-size: 600% 400%;
-                border-radius: 10px;
+                
                 text-align: center;
+                height: 100px;
+               
+                background-size: 600% 400%;
+                
                 }
+				
+		.byReevenContainer{
+                display: flex;
+				 flex-direction: column;
+                align-items: center;
+                justify-content: center;
+			border-radius: 10px;
+				width: 100%;
+				 background: #333;
+				padding-top:100px;
+				padding-bottom:100px;
+		}
 
 
                 h1 {
@@ -208,13 +219,19 @@
                     transform: none;
                     opacity: 0.25;
                 }
-                }
-			</style>
-			<div class="byReeven">
-                <h1>Hey, I'm Reeveng!</h1>
-                <h1>Hey, I'm Reeveng!</h1>
-                <h1>Hey, I'm Reeveng!</h1>
-            </div>
-        </div>
-	</foreignObject>
+                }</style>
+<div class="byReevenContainer">
+<div class="byReeven">
+<h1>Hey, I'm</h1>
+<h1>Hey, I'm</h1>
+<h1>Hey, I'm</h1>
+</div>
+<div class="byReeven">
+<h1>Reeveng!</h1>
+<h1>Reeveng!</h1>
+<h1>Reeveng!</h1>
+</div>
+</div>
+</div>
+</foreignObject>
 </svg>
