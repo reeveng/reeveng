@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" viewBox="0 0 1500 400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1500 650" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>.byReeven {
@@ -219,8 +219,22 @@
                     transform: none;
                     opacity: 0.25;
                 }
-                }</style>
+                }
+	
+	
+.pfp {
+  height: 250px;
+  width: 250px;
+  display: flex;
+  border-radius: 100%;
+  background-color: red;
+}</style>
 <div class="byReevenContainer">
+<img
+          class="pfp"
+          src="./logo.svg"
+          alt="a logo of a cod (a fish species), free to roam the world"
+        />
 <div class="byReeven">
 <h1>Hey, I'm</h1>
 <h1>Hey, I'm</h1>
