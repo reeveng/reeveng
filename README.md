@@ -1,4 +1,4 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg" alt="Hey I'm juice mit apfeln drin, a.k.a. apple juice"/>
 
 <!--
 
